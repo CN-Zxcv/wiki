@@ -4,7 +4,7 @@
 
 $$ f(f(x))=x $$
 
-## 一般性质
+### 一般性质
 
 对合是双射
 [恒等][Identity]是对合的平凡例子，其他还有乘以-1,取[倒数][Multiplicative_inverse]，[集合论][Set_theory]中的[补集][Complement]，和[复共轭][Complex_conjugate]
@@ -16,6 +16,6 @@ $$ f(f(x))=x $$
 [Inverse_function]: /math/Inverse_function.md
 [Identity]: TODO
 [Set_theory]: TODO
-[Complement]: TODO
+[Complement]: /math/Complement.md
 [Complex_conjugate]: TODO
 [Multiplicative_inverse]: TODO
