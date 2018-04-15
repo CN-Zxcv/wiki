@@ -1,5 +1,5 @@
 
-| | 全函数 | 集合律 | 单位元 | 逆元 | 交换律 |
+| | 全函数 | 结合律 | 单位元 | 逆元 | 交换律 |
 | - | - | - | - | - | - |
 | [半广群][Simigroupid] | $\textcolor{red}{N}$ | $\textcolor{green}{Y}$ | $\textcolor{red}{N}$ | $\textcolor{red}{N}$ | $\textcolor{red}{N}$ |
 | [范畴][Category] | $\textcolor{red}{N}$ | $\textcolor{green}{Y}$ | $\textcolor{green}{Y}$ | $\textcolor{red}{N}$ | $\textcolor{red}{N}$ |
